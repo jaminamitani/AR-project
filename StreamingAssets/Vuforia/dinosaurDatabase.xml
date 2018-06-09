@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="island" size="1.000000 1.423638" />
+    <ImageTarget name="aceOfClubs" size="1.000000 1.385998" />
+    <ImageTarget name="spades" size="1.000000 1.407121" />
+    <ImageTarget name="QRcode" size="0.250000 0.251453" />
+    <ImageTarget name="dinosaurTarget" size="5.000000 1.750992" />
+  </Tracking>
+</QCARConfig>
